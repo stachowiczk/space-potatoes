@@ -21,6 +21,7 @@ pygame <code>(pip install pygame)</code>
 ## Issues
 
 * Mouse contol needs improvement
+* Clean up some unused code/files
 
 ## Features to add 
 
